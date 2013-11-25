@@ -1,0 +1,3 @@
+[submodule "recursive_submodule"]
+       path = recursive_submodule
+       url = https://github.com/admk/recursive-submodule.git
